@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CaiPiaoS5</string>
+    <string name="Num_null">88</string>
+    <string name="BtnText">Androidx 随机生成一组大乐透号码 2 并用分裂随机算法</string>
+</resources>
+
